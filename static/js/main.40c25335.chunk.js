@@ -1,0 +1,2 @@
+(this["webpackJsonpheros-sport"]=this["webpackJsonpheros-sport"]||[]).push([[0],{10:function(e,t,s){"use strict";s.r(t);var r=s(1),c=s(3),n=s.n(c),o=(s(8),s(0));function i(){return Object(o.jsxs)("div",{className:"App",children:[Object(o.jsx)("h1",{children:"Hello from GitHub Pages"}),Object(o.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var h=document.getElementById("root");n.a.render(Object(o.jsx)(r.StrictMode,{children:Object(o.jsx)(i,{})}),h)},8:function(e,t,s){}},[[10,1,2]]]);
+//# sourceMappingURL=main.40c25335.chunk.js.map
